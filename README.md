@@ -1,32 +1,22 @@
- Merhaba!  
-Bu repo, **veri odaklı düşünmeyi öğrenirken** yazdığım SQL alıştırmalarını içeriyor.
+# sql-practices
 
-> “Bir şeyi gerçekten öğrenmenin en iyi yolu, onu **yaparak** ve **paylaşarak** öğrenmektir.” 🚀
+Bu repo, SQL öğrenirken yaptığım alıştırmaları topladığım bir yer.  
+Özellikle **window functions, RANK, ROW_NUMBER, DENSE_RANK** gibi konuları çalışırken pratiğimi kaybetmemek ve gelişimimi kayda geçirmek için açtım.
 
----
+### Neden buradayım?
 
-##  Bu repoda neler var?
-- SQL **Window Functions** pratikleri  
-- **ROW_NUMBER, RANK, DENSE_RANK** örnekleri  
-- Gerçek hayata uyarlanmış küçük senaryolar  
-- Kendimi geliştirmek için tuttuğum mini SQL notları
+- SQL'i sadece ezberlemek değil, **mantığını anlayarak** öğrenmek istiyorum.
+- Yazdığım her sorgu bir yerde dursun, istersem geri dönüp bakabileyim.
+- Kendi öğrenme sürecimi takip etmek ve zamanla gelişimi görmek istiyorum.
 
----
+### İçerik planı
 
-##  Öğrenme hedeflerim:
--  SQL’i sadece sözdizimi olarak değil — **mantığını anlayarak** öğrenmek
--  “Bu sorgu gerçek hayatta nerede kullanılır?” sorusunu kendime sormayı alışkanlık haline getirmek
--  Kendime ait temiz ve düzenli bir SQL çalışma arşivi oluşturmak
+Bu repo içinde şuna benzer bir yapı oluşturmayı düşünüyorum:
 
----
-
-##  Kullanacağım Yapı (Klasör Planı)
-
-```bash
 sql-practices/
- ├── window-functions/
- │     ├── practice1.sql
- │     ├── practice2.sql
- ├── notes/
- │     ├── window-functions-notes.md
+├── window-functions/
+│ ├── practice1.sql
+│ ├── practice2.sql
+├── notes/
+│ ├── window-functions-notes.md
 
